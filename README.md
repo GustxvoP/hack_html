@@ -1,14 +1,14 @@
 # HACK HTML Y CSS
 
 ## Tecnología
-- [] HTML
-- [] CSS3
-- [] docs
+- [ ] HTML
+- [ ] CSS3
+- [ ] docs
  
 ## Seleccione el tipo de actividad
-- []Feature
-- []Changes
-- []Hotfix
-- []Refactor
-- []Performance
-- []Testing
+- [ ]Feature
+- [ ]Changes
+- [ ]Hotfix
+- [ ]Refactor
+- [ ]Performance
+- [ ]Testing
