@@ -6,9 +6,9 @@
 - [ ] docs
  
 ## Seleccione el tipo de actividad
-- [ ]Feature
-- [ ]Changes
-- [ ]Hotfix
-- [ ]Refactor
-- [ ]Performance
-- [ ]Testing
+- [ ] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
