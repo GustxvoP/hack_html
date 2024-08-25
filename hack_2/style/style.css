@@ -1,0 +1,47 @@
+.container{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.box1{
+    width: 100%;
+    height: 100px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #93B5C9;
+    background-position: center center;
+    z-index: -1;
+}
+.box2{
+    width: 100%;
+    height: 200px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #AB2849;
+    background-position: center center;
+    z-index: -1;
+}
+
+.box3456{
+    width: 85%;
+    height: 100px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #AB2849;
+    margin-top: 2%;
+    float: left;
+}
+
+.box7{
+    width: 85%;
+    height: 80px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color: #AB2849;
+    background-position: center center;
+    z-index: -1;
+    margin-top:2%;
+    float: left;
+    margin-left:80px;
+}
